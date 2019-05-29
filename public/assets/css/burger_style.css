@@ -1,0 +1,20 @@
+
+body {
+  background: url(../img/burger.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+  margin-bottom: 2em;
+}
+
+.jumbotron {
+  font-family: 'Fascinate', cursive;
+}
+.display-4 {
+  font-size: 4em;
+}
+
